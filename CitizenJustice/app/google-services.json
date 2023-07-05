@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264145640061",
+    "firebase_url": "https://citizenapp-f8df6-default-rtdb.firebaseio.com",
+    "project_id": "citizenapp-f8df6",
+    "storage_bucket": "citizenapp-f8df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264145640061:android:7e05025b8a760a70a12f14",
+        "android_client_info": {
+          "package_name": "com.example.citizenjustice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264145640061-9maomom8cos0lj6io8tgiob3n2k7sj5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citizenjustice",
+            "certificate_hash": "0a4e7fd9690c18551c54f5522c3a66bb09d9d8df"
+          }
+        },
+        {
+          "client_id": "264145640061-f7fkbmji98705lqupk6gr4hmgiee65t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFk2eP5-eKjxUyZpNG_SX5abOQANbIqoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264145640061-f7fkbmji98705lqupk6gr4hmgiee65t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
